@@ -1,0 +1,38 @@
+* {font-family: Georgia, serif;}
+hr {color: #107369;}
+/* ++ Posiziono tutto al centro e mi occupo della prima parte ++ */
+
+div {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px;
+    line-height: 30px;
+    }
+h1 {
+    text-align: center;
+}
+#inizio {
+    color: #24A65C;
+    padding: 20px;
+    background-color: #ece2ae;
+    text-align: center;
+        }
+#vuoto {color: white;}
+.pfocaccia {text-align: justify;}
+#pos {
+    width: 180px;
+    margin-left: 40%;
+     
+     }
+#video {
+    margin-left: 15%;
+    border-radius: 10px;
+       }
+figcaption {
+    color: gray;
+    box-shadow: inset;
+    text-align: center;
+}
+.rosso {
+    color: red;
+}
